@@ -1,4 +1,8 @@
-### Hi there 👋
+## My name is David and i'm on a journey to become a software developer!
+## My main goal is to achieve a good career through back-end development
+### Habilities: FastAPI, Flask, Django, React JS, HTML, CSS
+### Currently learning: Java
+### How to reach me: https://www.linkedin.com/in/david-leal-188b1b275/
 
 <!--
 **mrtapajos/mrtapajos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
